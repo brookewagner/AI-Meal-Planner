@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 1,
+    "name": "Cheese Omelette",
+    "ingredients": ["eggs", "cheese", "butter"],
+    "cook_time": 10,
+    "diet": "vegetarian"
+  },
+  {
+    "id": 2,
+    "name": "Spinach Scramble",
+    "ingredients": ["eggs", "spinach", "milk"],
+    "cook_time": 10,
+    "diet": "vegetarian"
+  },
+  {
+    "id": 3,
+    "name": "Chicken and Rice",
+    "ingredients": ["chicken", "rice", "garlic"],
+    "cook_time": 30,
+    "diet": "regular"
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Fried Rice",
+    "ingredients": ["rice", "carrots", "peas", "soy sauce"],
+    "cook_time": 20,
+    "diet": "vegan"
+  },
+  {
+    "id": 5,
+    "name": "Cheesy Pasta",
+    "ingredients": ["pasta", "cheese", "milk"],
+    "cook_time": 20,
+    "diet": "vegetarian"
+  }
+]
